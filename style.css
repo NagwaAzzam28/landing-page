@@ -21,7 +21,6 @@ body {
 .header {
     height: 70px;
     background-color: #1f2937;
-
 }
 
 .header .container {
@@ -60,6 +59,7 @@ body {
 .hero {
 
     background-color: #1f2937;
+    margin-bottom: 60px;
 
 }
 
