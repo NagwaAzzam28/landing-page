@@ -59,7 +59,7 @@ body {
 .hero {
 
     background-color: #1f2937;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 
 }
 
@@ -112,6 +112,54 @@ body {
     max-width: 500px;
     height: 300px;
 }
+
+/* cards-section */
+
+.cards-section {
+    margin-bottom: 100px;
+
+
+}
+
+.cards-section h2 {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin-bottom: 60px;
+}
+
+.cards-section .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.cards-section .card {
+    flex: 1;
+    text-align: center;
+    color: #364153;
+    
+}
+    
+
+.cards-section img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    object-fit: cover;
+    object-position: top;
+    border: 3px solid #ece6ea;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+
+
+    
 
 
 
