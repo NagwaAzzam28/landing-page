@@ -230,9 +230,16 @@ body {
     color: #fff;
     cursor: pointer;
 }
+
+/* the footer */
+
+.footer {
+    text-align: center;
+    padding-block: 30px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    letter-spacing: .8px;
     
-
-
-
+}
 
 
